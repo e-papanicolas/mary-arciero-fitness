@@ -1,0 +1,11 @@
+{
+  "appId": "com.maryarciero.app",
+  "appName": "Mary Arciero Fitness",
+  "bundledWebRuntime": false,
+  "webDir": "src",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
